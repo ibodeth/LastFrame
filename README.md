@@ -8,6 +8,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **LastFrameDropper** is a minimalist desktop tool that extracts the **last frame of a video losslessly**.
+
+> **Note:** This is a lightweight desktop utility designed to drop video files and extract their final frame.
+
 Built for **AI video generation workflows** where frame continuity is critical.
 
 ---
